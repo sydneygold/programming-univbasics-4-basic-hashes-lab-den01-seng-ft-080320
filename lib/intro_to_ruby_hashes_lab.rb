@@ -14,6 +14,6 @@ end
 
 
 def id_hash_generator(number)
-  { :id => interger
+  { :id => number
   }
 end
