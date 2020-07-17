@@ -3,8 +3,8 @@ def new_hash
 end
 
 def my_hash
-  { apocolypse_games => "The Last of Us"
-    samurai_games => "Ghost of Tsushima"
+  { :apocolypse_games => "The Last of Us"
+    :samurai_games => "Ghost of Tsushima"
   }
 end
 
